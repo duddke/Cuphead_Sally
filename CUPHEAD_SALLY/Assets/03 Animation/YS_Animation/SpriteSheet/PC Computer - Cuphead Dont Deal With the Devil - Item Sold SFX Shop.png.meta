@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 15837f982304bed4c93e4354f85b5ba7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 432
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b29640a6feec54caeb5bee60bb4d83
+      internalID: -684171521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 19
+        width: 426
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e648487ecdc0fcb449a0ed47398ff289
+      internalID: -1774724147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_2
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 13
+        width: 437
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c759e9b8b32024eb7f1d169a4f8d8f
+      internalID: 1762525897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_3
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 23
+        width: 440
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c8ba7fa72bcc48864ae23e95192e8
+      internalID: 2049762086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_4
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 11
+        width: 428
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93a21b92bda814584744cb2e4f2f69
+      internalID: -174556121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_5
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 21
+        width: 431
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073b4062a5c99041a241dd6c0b62e3c
+      internalID: -123816508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_6
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 13
+        width: 432
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0076322378883324ba4680c90da91f40
+      internalID: 429066976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_7
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 19
+        width: 432
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb4a6a59a5da74eb6c12144751e219
+      internalID: 1857348455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_8
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 17
+        width: 439
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbae8a7c1ff1234f8de2b68ee5879b7
+      internalID: 1290912847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_9
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 15
+        width: 438
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e782fb3b8949244b44c8323dedaf7b
+      internalID: 331534308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 89a448dd998ecdd46b3b3433d64d0d38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_9: 331534308
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_0: -684171521
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_4: -174556121
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_8: 1290912847
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_3: 2049762086
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_2: 1762525897
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_7: 1857348455
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_1: -1774724147
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_6: 429066976
+      PC Computer - Cuphead Dont Deal With the Devil - Item Sold SFX Shop_5: -123816508
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

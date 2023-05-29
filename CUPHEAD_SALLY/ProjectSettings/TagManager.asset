@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - floor
+  - en
+  - Bullet
+  - Parry
+  - Pos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2869754805
+    locked: 0
+  - name: Guid
+    uniqueID: 1170768011
+    locked: 0
+  - name: Object
+    uniqueID: 2976228823
+    locked: 0
+  - name: Door
+    uniqueID: 2739166131
+    locked: 0
+  - name: Player
+    uniqueID: 119116357
+    locked: 0
+  - name: Front
+    uniqueID: 3995371151
+    locked: 0

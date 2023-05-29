@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: e8a2dfac47618104596cc22164f52c77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 440
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b7a74f1705e8045b738e282e112474
+      internalID: 859002300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 440
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b9deb225eb434ebf880cc8485f913
+      internalID: 960956886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 440
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea645a1dfd11642947cc04da878135
+      internalID: 1721709126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 440
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc453528bf1667740b083a97e900152a
+      internalID: 645972630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 440
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09ae2e749da4a418d62c8c8f6c75e0
+      internalID: 359218123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_5
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 439
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2ffd8f5bac0a4dbce10ea362790ee
+      internalID: -1289507305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 441
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d282f3661b3c544584ddfb0300e8cdf
+      internalID: -1016302346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_7
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 441
+        width: 131
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb23eb0ffa71384c8374d0c4c836cef
+      internalID: 810354654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_8
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 441
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a388c9595160a94db413170fd9a5913
+      internalID: 1626417825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_9
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 441
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936dc6197274d02439e285b8febedd6e
+      internalID: -687994022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_10
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 441
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3531db8cff2864c95ed4081e6ba665
+      internalID: -1188120001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_11
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 441
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00cecd2f57599f4987c80dd288deab1
+      internalID: 119574958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_12
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 441
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb1d6ee78492f44b2d4364dc8a00b7
+      internalID: 1364841567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_13
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 441
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206641e4523495741ab5d38b5d15c83a
+      internalID: 1243257407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_14
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 441
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b19d5f159a205459d8bf1ad861975b
+      internalID: -1282595998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_15
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 441
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a80a30ed2ee54499afac05c1315ad
+      internalID: -619573203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_16
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 441
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711470c04d8d744c88d53ef18676bac
+      internalID: 1045212154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_17
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 441
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb8512ed959f64ba923d97b18a73cb
+      internalID: -885205594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822674855e3711468be422d7e9e26dd
+      internalID: -1022559593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c86b6f7ce845408d930b9b6eb5500
+      internalID: -1202396548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33d37b97cc50d498800259cc0fcc09
+      internalID: 666559442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 152
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9a880ba80e0643bb66925ba80dede
+      internalID: -315571868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 151
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47493ca0ef90d4f90c42fcce9f1eae
+      internalID: 1732932058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 151
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ad70a857fe30418d464be2e2f80de
+      internalID: 1913322540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_24
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 152
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749ca9fc3a31ce47a7c520fd8cbdc3f
+      internalID: -1683048334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_25
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 151
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5b54d05bdd4c4c9887308736a24f4
+      internalID: 1846900734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 153
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130430a2745b5894fb3e0590844cb8cf
+      internalID: 1903090337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_27
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 153
+        width: 133
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7753d96d67af46b6bcfffdfcd64bb
+      internalID: 771829166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_28
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 154
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133888a470fdd8c4a93e58073e6ccb44
+      internalID: -63182869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_29
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 155
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09582b8add47d4ab15567896dc3759
+      internalID: -1783377746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_30
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 153
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d7f29f330d6d546a2b35e62c6ded9a
+      internalID: 2017690818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_31
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 153
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1f1ae1dff7b1140ab9e4496a2c5233
+      internalID: -31768172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_32
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 153
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63083ad6845cfb4f843af901b069d54
+      internalID: -747194771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_33
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 154
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed624bfc1ce765b44a01a8aa1e69e232
+      internalID: 899540626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_34
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 153
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55f8e4a26ea845429bf4a82ec7c832a
+      internalID: -1542109248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_35
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 151
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5a22fb6e967543b73cca6a97a1d96
+      internalID: -25992108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_36
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 151
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103807bb62eb7943aa2e616f752eba3
+      internalID: 1770875259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Player Dust_37
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 154
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a241f08ac79545b3172e67f31f11c
+      internalID: -530412270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 29bc152982c1c064aac63fc851fdca7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_21: -315571868
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_27: 771829166
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_3: 645972630
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_8: 1626417825
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_32: -31768172
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_4: 359218123
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_6: -1016302346
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_5: -1289507305
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_16: 1045212154
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_11: 119574958
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_17: -885205594
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_13: 1243257407
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_25: 1846900734
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_14: -1282595998
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_36: -25992108
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_2: 1721709126
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_31: 719128434
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_0: 859002300
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_20: 666559442
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_9: -687994022
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_12: 1364841567
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_23: 1913322540
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_24: -1683048334
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_35: -1542109248
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_37: 1770875259
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_1: 960956886
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_34: 899540626
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_30: 2017690818
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_28: -63182869
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_10: -1188120001
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_18: -1022559593
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_22: 1732932058
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_26: 1903090337
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_33: -747194771
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_29: -1783377746
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_15: -619573203
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_19: -1202396548
+      PC Computer - Cuphead Dont Deal With the Devil - Player Dust_7: 810354654
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
